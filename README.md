@@ -5,8 +5,7 @@
 ### Work Experience
 **Data Analyst @ Dervine Tech (_10/2019 - present_)**
 - Analyzed website data, identifying areas for improvement and implementing approved strategies that resulted in increased traffic by 20%.
-- Utilized data analysis to develop quarterly reports, leading to a 20% decrease in tour cancelations
-- As well as increased customer engagement, and average time spent on website by 150%
+- Utilized data analysis to develop quarterly reports, leading to a 20% decrease in tour cancelations, increased customer engagement and average time spent on website by 150%
 - Increased client's market share by 10% through developing and implementing a targeted marketing strategy, resulting in a significant boost in brand awareness and sales.
 
 **Account Executive @ Sodium Brand Solutions (_09/2012 - 04/2015_)**
