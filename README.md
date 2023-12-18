@@ -11,19 +11,19 @@ Account Executive @ Sodium Brand Solutions from 09/2012 - 04/2015
 - Analyzed and interpreted data to increase revenue by 20% through identifying key customer segments and driving targeted marketing strategies.
 
 ### Education
-Business & Management @ University of Hull, UK. Bachelors
+Bachelors in Business & Management @ University of Hull, UK.
 
 ### Certifications
-Google Data Analytics Course, SQL & R - Coursera, 05/2023
-Data Science in Python - DataCamp, 11/2023
+- Google Data Analytics Course, SQL & R - Coursera, 05/2023
+- Data Science in Python - DataCamp, 11/2023
 
 ### Skills
 Python & R programming, SQL, Tableau, PowerBI, Looker, Microsoft Office
 
 ### Projects
-Supply chain analysis
-Scouting Report
-Netflix Subscription Forecast
-Team Efficiency Analysis - WC2022
-Ball Arena - Web & Social media
+- Supply chain analysis
+- Scouting Report
+- Netflix Subscription Forecast
+- Team Efficiency Analysis - WC2022
+- Ball Arena - Web & Social media
 
