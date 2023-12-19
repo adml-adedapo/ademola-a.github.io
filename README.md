@@ -24,6 +24,6 @@
 - Supply chain analysis:
 - Scouting Report:
 - Netflix Subscription Forecast:
-- WC2022 Team Efficiency Analysis:
+- WC2022 Team Efficiency Analysis:[Interactive Dashboard](https://public.tableau.com/views/WC2022TeamEfficiency/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 - Ball Arena - Web & Social media:
 
