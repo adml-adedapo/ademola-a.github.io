@@ -13,7 +13,7 @@
 - Analyzed and interpreted data to increase revenue by 20% through identifying key customer segments and driving targeted marketing strategies.
 
 ### Education
-- B.A., Business & Management | The University of Hull, UK (_July 2012_)
+- B.A., Business & Management - The University of Hull, UK (_July 2012_)
 
 ### Certifications
 - Google Data Analytics Course (SQL & R) - Coursera (_05/2023_)
