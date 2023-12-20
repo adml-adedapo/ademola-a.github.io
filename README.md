@@ -21,7 +21,7 @@
 
 
 ### Projects
-- Supply chain analysis:
+- Supply chain analysis: [Kaggle datasets with Python](https://www.kaggle.com/ademolaadedapo/supply-chain-analysis-project)
 - Scouting Report:
 - Netflix Subscription Forecast:
 - WC2022 Team Efficiency Analysis: [Interactive Dashboard](https://public.tableau.com/views/WC2022TeamEfficiency/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
