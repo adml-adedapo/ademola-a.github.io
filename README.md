@@ -3,7 +3,7 @@
 
 #### Technical Skills: Python, R, SQL, Tableau, PowerBI, MS Office
 
-### Projects
+### Works & Projects
 - Web traffic analysis: [Looka Report](/assets/Davido_Music_Worldwide_(DMW)_Report.pdf)
 - Supply chain analysis: [Python Notebook on Kaggle](https://www.kaggle.com/ademolaadedapo/supply-chain-analysis-project)
 - Netflix Subscription Forecast: [Python Notebook on Kaggle](https://www.kaggle.com/ademolaadedapo/forecasting-project)
