@@ -5,7 +5,7 @@
 
 
 ### Works & Projects
-- Web traffic analysis: [Looka Report](/assets/Davido_Music_Worldwide_(DMW)_Report.pdf)
+- Web traffic analysis: [Looka Report](portfolio/assets/Davido_Music_Worldwide_(DMW)_Report.pdf)
 - Supply chain analysis: [Python Notebook on Kaggle](https://www.kaggle.com/ademolaadedapo/supply-chain-analysis-project)
 - Netflix Subscription Forecast: [Python Notebook on Kaggle](https://www.kaggle.com/ademolaadedapo/forecasting-project)
 - WC2022 Team Efficiency Analysis: [Tableau Dashboard](https://public.tableau.com/views/WC2022TeamEfficiency/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
