@@ -1,17 +1,17 @@
 ## Data Analyst
 
 ### Contact Information
-- **Mobile** - +1 6094550764
-- **E-mail** - admladedapo@gmail.com
+- **Mobile**: +1(609)-455-0764
+- **E-mail**: admladedapo@gmail.com
 
-#### Technical Skills: Python, R, SQL, BigQuery, Tableau, PowerBI, MS Office
+#### Technical Skills: Python, R, SQL, BigQuery, Tableau, PowerBI, Looker, Machine Learning
 
-### Works & Projects
-- Website data analysis: [Looka Report](Davido_Music_Worldwide_(DMW)_Report.pdf)
-- Supply chain analysis: [Python Notebook on Kaggle](https://www.kaggle.com/ademolaadedapo/supply-chain-analysis-project)
-- Netflix Subscription Forecast: [Python Notebook on Kaggle](https://www.kaggle.com/ademolaadedapo/forecasting-project)
+### Some Works & Projects
+- Website Data Analysis: [Looker Report](Davido_Music_Worldwide_(DMW)_Report.pdf)
+- Supply Chain Analysis: [Python Notebook on Kaggle](https://www.kaggle.com/ademolaadedapo/supply-chain-analysis-project)
+- Forecasting Project: [Python Notebook on Kaggle](https://www.kaggle.com/ademolaadedapo/forecasting-project)
 - WC2022 Team Efficiency Analysis: [Tableau Dashboard](https://public.tableau.com/views/WC2022TeamEfficiency/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-- Social media management: [Instagram Account](https://www.instagram.com/dervinetech?igsh=dHFqMnY2NmpxOXE1)
+- Social Media Management: [Instagram Account](https://www.instagram.com/dervinetech?igsh=dHFqMnY2NmpxOXE1)
 
   
 
