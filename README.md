@@ -1,6 +1,14 @@
-# Data Analyst
+#Ademola Adedapo
+## Data Analyst
 
 #### Technical Skills: Python, R, SQL, Tableau, PowerBI, MS Office
+
+### Projects
+- Web traffic analysis: [Looka Report]
+- Supply chain analysis: [Python Notebook on Kaggle](https://www.kaggle.com/ademolaadedapo/supply-chain-analysis-project)
+- Netflix Subscription Forecast: [Python Notebook on Kaggle](https://www.kaggle.com/ademolaadedapo/forecasting-project)
+- WC2022 Team Efficiency Analysis: [Tableau Dashboard](https://public.tableau.com/views/WC2022TeamEfficiency/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+- Social media management: [Instagram Account](https://www.instagram.com/dervinetech?igsh=dHFqMnY2NmpxOXE1)
 
 ### Work Experience
 **Data Analyst @ Dervine Tech (_10/2019 - present_)**
@@ -18,12 +26,3 @@
 ### Certifications
 - Google Data Analytics Course (SQL & R) - Coursera (_05/2023_)
 - Data Science in Python - DataCamp (_11/2023_)
-
-
-### Projects
-- Supply chain analysis: [Python Notebook on Kaggle](https://www.kaggle.com/ademolaadedapo/supply-chain-analysis-project)
-- Scouting Report:
-- Netflix Subscription Forecast: [Python Notebook on Kaggle](https://www.kaggle.com/ademolaadedapo/forecasting-project)
-- WC2022 Team Efficiency Analysis: [Tableau Dashboard](https://public.tableau.com/views/WC2022TeamEfficiency/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-- Ball Arena - Web & Social media:
-
