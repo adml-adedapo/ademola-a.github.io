@@ -22,7 +22,15 @@
 - Designed and developed a machine learning model to analyze customer feedback data, leading to the identification of key areas for product improvement and a 15% increase in customer satisfaction scores.
 - Created and maintained comprehensive dashboards and data visualizations, providing stakeholders with real-time insights for informed decision-making.
 
-**Business/Data Analyst @ Sodium Brand Solutions (_09/2017 - 04/2019_)**
+**CRM/Social Media/Data Analyst @ Dervine Tech (_05/20 - 07/21_)**
+- Develop and maintain successful relationships with customers to ensure maximum customer retention and satisfaction.
+- Analyzed website data, identifying areas for improvement and implementing strategies that resulted in increased traffic by 20%.
+- Utilized data analysis to develop quarterly reports, leading to a 20% decrease in tour cancelations and increased customer engagement and average time spent on website.
+- Used data analysis and analytics for project needs assessment, opportunity identification, business problem solving, leadership ethics, and stakeholder communications.
+- Manage social media accounts, overlooking its analytics while promoting brand awareness and sales. Grown followers by nearly 150% in less than a year through engaging content based on the data.
+- Communicate stories with data to business decision-makers using data visualization tools like Tableau.
+
+**Business/Data Analyst @ Sodium Brand Solutions (_09/2017 - 04/2020_)**
 - Generated $15,000 in new business revenue by prospecting and closing deals with 5 new clients, resulting in a 30% increase in sales.
 - Successfully launched new products for multinational Fortune 500 companies, collaborating across teams to meet market testing objectives.
 - Analyzed and interpreted data to increase revenue by 20% through identifying key customer segments and driving targeted marketing strategies.
